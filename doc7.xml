@@ -1,4 +1,8 @@
 <?xml version="1.1" encoding="UTF-8"?>
+
+<!-- includere all'interno di un documento XML la dichiarazione del tipo, 
+definire internamente gli elementi e gli attributi e validare -->
+
 <!DOCTYPE TEI [ 
 <!ELEMENT TEI (header,facsimile?,text+)>
 
