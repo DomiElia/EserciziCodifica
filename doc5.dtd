@@ -9,9 +9,9 @@ attributi: header: type (fixed, CDATA, "intestazione"); lang (opzionale, NMTOKEN
 
 <!ELEMENT TEI (header,facsimile?,text+)>
 
-<! ELEMENT header (#PCDATA) >
-<! ELEMENT facsimile (#PCDATA) >
-<! ELEMENT testo (#PCDATA| seg )* >
+<!ELEMENT header (#PCDATA) >
+<!ELEMENT facsimile (#PCDATA) >
+<!ELEMENT testo (#PCDATA| seg )* >
 
 <!ATTLIST header type CDATA #FIXED "intestazione" >
 <!ATTLIST header lang NMTOKEN #IMPLIED >
