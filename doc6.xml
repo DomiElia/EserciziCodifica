@@ -1,0 +1,10 @@
+<!-- inserire nel prologo di un documento XML la dichiarazione el tipo di documento e validare -->
+<?xml version="1.1" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "./doc4.dtd">
+
+<TEI>
+    <header> primo figlo </header>
+    <facsimile> secondo figlio </facsimile>
+    <text> terzo figlio </text>
+    <text> quarto figlio </text>
+</TEI>
