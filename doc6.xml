@@ -1,5 +1,7 @@
-<!-- inserire nel prologo di un documento XML la dichiarazione el tipo di documento e validare -->
 <?xml version="1.1" encoding="UTF-8"?>
+
+<!-- inserire nel prologo di un documento XML la dichiarazione el tipo di documento e validare -->
+
 <!DOCTYPE TEI SYSTEM "./doc4.dtd">
 
 <TEI>
