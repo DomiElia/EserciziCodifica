@@ -1,5 +1,7 @@
-<!--aprire il file xml non ben formato, validarlo con un parser xml, correggerlo, aggiugnere un figlio e un fratello ad un elemento -->
 <?xml version="1.1" encoding="UTF-8"?>
+
+<!--aprire il file xml non ben formato, validarlo con un parser xml, correggerlo, aggiugnere un figlio e un fratello ad un elemento -->
+
 <docu>
     <element>
         <!-- aggiungo un figlio a element -->
