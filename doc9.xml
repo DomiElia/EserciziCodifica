@@ -1,0 +1,66 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<!-- marcare un testo plain text di circa 3000 caratteri a piacere:
+    inserire prologo XML 
+    marcare la struttura usando gli elementi fin qui descritti in particolare marcare tutti i paragrafi usando <p> e la struttura editoriale usando <div>
+    verificare che sia ben formato con xmllint
+    salvare il file XML su github-->
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Cime tempestose </title>
+                <author> Emily Bronte </author>
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div n ="1" type = "chapter">
+                <p> Sono appena ritornato da una visita al mio padrone di casa, il solo vicino col quale avrò a che fare.
+                    Questa è indubbiamente una bella contrada. Credo che in tutta l'Inghilterra non avrei potuto scegliermi un
+                    altro posto più lontano dal frastuono della società. È il paradiso del perfetto misantropo; e il signor
+                    Heathcliff ed io siamo fatti apposta per una simile desolazione. Un uomo veramente singolare! Non immaginava
+                    certo quale viva simpatia sentissi per lui quando vidi i suoi occhi neri ritrarsi così sospettosamente sotto
+                    le ciglia al mio avanzare a cavallo, e le sue mani rifugiarsi ancor più addentro nel panciotto, con gelosa
+                    risolutezza, all'annuncio del mio nome.
+                </p>
+                <p> 
+                    <q>«Il signor Heathcliff» </q> dissi. 
+                </p>
+                <p>Un inchino del capo fu la risposta. </p>
+                <p>
+                    <q>«Il signor Lockwood, il vostro nuovo affittuario, signore. Mi faccio l'onore di presentarmi a voi il più sollecitamente possibile, subito dopo il mio arrivo, voglio esprimervi la speranza che ho di non esser stato troppo importuno con la mia insistenza nel chiedervi di poter abitare Thrushcross Grange. Proprio ieri ho saputo che voi avevate l'intenzione...»</q>
+                </p>
+                <p>
+                    <q>«Thrushcross Grange è mia proprietà, signore,» </q> mi interruppe, aggrottando le ciglia. 
+                    <q>«Non permetterei mai a nessuno di importunarmi, poiché sta solo a me d'impedirlo... Entrate!»</q>
+                </p>
+                <p>
+                 Quell'«entrate» fu pronunciato a denti stretti ed esprimeva un sentimento ben diverso, a esempio, 
+                 «Andatevene al diavolo!»; perfino il cancello al quale si era appoggiato non diede il minimo segno
+                 di consenso a quella parola, e credo che fu proprio tale circostanza a farmi accettare l'invito:
+                 sentii interesse per quell'uomo che sembrava esageratamente riservato, ancora più di quanto lo
+                 fossi io.
+                </p>
+                <p>
+                 Quando vide che il mio cavallo già si spingeva col petto contro la sbarra, allora, finalmente,
+                 levò una mano per togliere la catena, e precedendomi piuttosto di malavoglia per il vialetto, 
+                 entrò nella corte e gridò: <q>«Giuseppe, prendi il cavallo del signor Lockwood e portaci su del vino.» </q>
+                </p>
+                <p> 
+                  <q>«Questa dev'esser tutta la sua servitù, m'immagino,»</q> fu la riflessione suggeritami da quell'ordine. 
+                  <q>«Nessuna meraviglia se l'erba cresce fra le pietre e il solo bestiame pensa a cimare le siepi.» </q>
+                </p>
+                <p>
+                 Giuseppe era un uomo in età, anzi, un vecchio; forse molto vecchio, quantunque sano e vigoroso.
+                 <q> «Che il Signore ci aiuti!»</q> monologò sottovoce, con mal celato dispetto, mentre prendeva le
+                 briglie del mio cavallo, e mi guardava con un viso così arcigno che conclusi, caritatevolmente, che
+                 avesse bisogno dell'aiuto divino per digerire il pranzo, e che la sua pia invocazione non dovesse avere quindi
+                 alcun riferimento al mio inaspettato arrivo.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
