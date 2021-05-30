@@ -1,0 +1,48 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<!--codificare usando gli opportuni elementi TEI un articolo di rivista-->
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Articolo del fatto quotidiano su omicidio a Milano</title>
+                <respStmt>
+                    <resp>Conversione TEI P5 a cura di</resp>
+                    <name>D.Elia</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <date>2021-30-05</date>
+                <avaiability status="restricted"></avaiability> 
+            </publicationStmt>
+            <sourceDesc>
+                <title>Milano, omicidio durante la partita di calcetto: accoltellato al cuore per una lite tra tifosi</title>
+                <publisher>Il fatto quotidiano</publisher>
+                <date>2021-30-05</date>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p> Una coltellata al cuore al culmine di una lite scoppiata per motivi di tifo durante un torneo di 
+            calcetto della comunità peruviana. Sarebbe questo il motivo dell’omicidio di Adrian Yparraguirre Silva,
+            39 anni, ucciso sabato sugli spalti del campetto di via del Ricordo, a Milano.</p>
+            <p> L’uomo è deceduto all’ospedale di Niguarda, dove era stato trasportato dai soccorritori intervenuti
+            nel centro sportivo in zona via Padova, dove si stava svolgendo la “Super League”, alla quale
+            partecipano sedici squadre amatoriali della comunità peruviana.</p>
+            <p> Stando alla ricostruzione degli investigatori – riportata dalle edizioni locali di Corriere della
+            Sera e La Repubblica – sugli spalti c’erano circa una sessantina di tifosi, alcuni dell’Universitario
+            de Deportes e altri del Club Alianza, le due squadre di Lima tra le cui tifoserie esiste una forte 
+            rivalità.</p>
+            <p>Ad un certo punto i presenti avrebbero iniziato a litigare e lo scontro è degenerato.
+            Qualcuno avrebbe estratto un coltello colpendo per tre volte il 38enne peruviano, tifoso
+            dell’Universitario, in un caso centrandolo al cuore.</p>
+            <p>I poliziotti della Squadra Mobile, coordinati dalla pm Marina Petruzzella, hanno ascoltato nelle
+            scorse ore una trentina di persone per ricostruire l’accaduto e tentate di identificare chi ha
+            aggredito mortalmente Adrian Yparraguirre Silva e suoi eventuali complici. Il gruppo si è infatti 
+            subito dato alla fuga, ma gli agenti – anche con il supporto delle telecamere di videosorveglianza 
+            installate in zona – sono sulle loro tracce</p> 
+        </body>
+    </text>
+</TEI>
