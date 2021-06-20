@@ -101,7 +101,7 @@
                 </p>
             </div>
 
-            <div tpye ="lists">
+            <div type ="lists">
                 <listPerson>
                     <head> Lista persone </head>
                     <person xml:id="VB">
@@ -127,7 +127,7 @@
                             <date when ="1835-09-23"> 23 settembere 1835 </date>
                             <placeName ref ="#Put">
                                 <settlement type="municiplaity"> Puteaux </settlement>
-                                <settlment tpye ="department" key ="Paris"> Paris </settlement>
+                                <settlment type ="department" key ="Paris"> Paris </settlement>
                                 <country key ="FR"> France</country>
                             </placeName>
                         </death>
